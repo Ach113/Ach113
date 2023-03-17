@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 <img align="left" alt="pytorch" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg"/>
 <img align="left" alt="opencv" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original.svg"/>
 <img align="left" alt="git" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"/>
-<img align="left" alt="conda" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original.svg"/>
+<img align="left" alt="conda" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original.svg"/>
