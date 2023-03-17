@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img class="img" align="right" src="https://github-readme-stats.vercel.app/api?username=Ach113&show_icons=true&theme=tokyonight" />
+<img class="img" align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=Ach113&show_icons=true&theme=tokyonight" />
 
 
 - :mortar_board: B.S. & M.S. in computer engineering
@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - :book: learning text generation models 
 - :email: you can contact me at `archil.beridze@sjsu.edu`
 
-<br />
-<br />
 
 ### :crystal_ball: Languages, frameworks and tools I'm familiar with
 <img align="left" alt="python" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
