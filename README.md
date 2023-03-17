@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - :book: learning text generation models
 - :email: you can contact me at `archil.beridze@sjsu.edu`
 
-### :crystal_ball: Tools, languages & frameworks I'm familiar with
+### :crystal_ball: Languages, frameworks and tools I'm familiar with
 <img align="left" alt="python" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
 <img align="left" alt="c++" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="rust" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg"/>
