@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - :mortar_board: B.S. & M.S. in computer engineering
 - :pencil: currently working on federated recommendation systems   
-- :book: learning text generation models 
+- :book: currently studying LLMs
 - :email: you can contact me at `archil.beridze@sjsu.edu`
 
 
