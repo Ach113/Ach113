@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 
 - :mortar_board: B.S. & M.S. in computer engineering
-- :pencil: currently working on federated recommendation systems   
+- :pencil: working on recommendation systems   
 - :book: currently studying LLMs
-- :email: you can contact me at `archil.beridze@sjsu.edu`
+- :email: you can contact me at `archil_beridze@epam.com`
 
 
 ### :crystal_ball: Languages, frameworks and tools I'm familiar with
