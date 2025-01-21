@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img class="img" align="right" width="375px" src="https://github-readme-stats.vercel.app/api?username=Ach113&show_icons=true&theme=tokyonight" />
+<!-- <img class="img" align="right" width="375px" src="https://github-readme-stats.vercel.app/api?username=Ach113&show_icons=true&theme=tokyonight" /> -->
 
 
 - :mortar_board: B.S. & M.S. in computer engineering
