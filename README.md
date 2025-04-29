@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - :mortar_board: B.S. & M.S. in computer engineering
 - :pencil: working on recommendation systems   
 - :book: currently studying LLMs
-- :email: you can contact me at `archil_beridze@epam.com`
+- :email: you can contact me at `archie.beridze@gmail.com`
 
 
 ### :crystal_ball: Languages, frameworks and tools I'm familiar with
